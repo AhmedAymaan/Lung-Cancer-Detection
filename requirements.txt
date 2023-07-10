@@ -3,5 +3,3 @@ numpy==1.23.5
 Pillow==9.3.0
 tensorflow==2.12.0
 keras==2.12.0
-h5py
-gdown
