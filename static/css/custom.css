@@ -1,0 +1,82 @@
+body {
+    background-repeat: repeat-y;
+    background-image: linear-gradient(180deg, #12343b 0%, #2d545e 50%, #c89666 100%, #e1b382 0%);
+    background-position: center;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    scroll-behavior: smooth;
+
+
+}
+
+.container {
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 40px;
+    background-image: linear-gradient(360deg, #12343b 0%, #2d545e 50%, #c89666 100%, #e1b382 0%);
+}
+
+.container2 {
+    text-align: center;
+    max-width: 250px;
+    margin: 0 auto;
+    padding: 10px;
+    background-image: linear-gradient(360deg, #12343b 0%, #2d545e 50%, #c89666 100%, #e1b382 0%);
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h3 {
+    margin: 0 auto;
+    max-width: 250px;
+    text-align: center;
+    background-image: linear-gradient(180deg, #12343b 0%, #2d545e 50%, #12343b 0%);
+}
+
+h6 {
+  
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.image-preview {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#previewImage {
+    max-width: 100%;
+}
+
+.file-input {
+    margin-bottom: 20px;
+}
+
+button[type="submit"] {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #2d545e;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: #12343b;
+}
